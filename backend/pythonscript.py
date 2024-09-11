@@ -1,1 +1,1 @@
-print("Output from Python script")  # Output from Python script
+print("Output from Python script")  # Output from Python script sample file
